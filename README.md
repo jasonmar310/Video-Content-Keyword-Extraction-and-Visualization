@@ -2,7 +2,7 @@
 
 A BERT project aims to extract keywords from videos and generate data visualization for the results.
 
-![Project Image](file/image/Picture1.png)
+![Project Image](file/image/Screenshot 2023-07-16 221634.png)
 
 ---
 
